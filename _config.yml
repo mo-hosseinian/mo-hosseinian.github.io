@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Hosseinian"
+title                    : "S. Mohammad Hosseinian"
 title_separator          : "-"
-name                     : &name "Mohammad Hosseinian"
+name                     : &name "S. Mohammad Hosseinian"
 description              : &description "Assistant Professor of Industrial and Systems Engineering at University of Cincinnati"
-url                      : https://mo-hosseinian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://s-hosseinian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mo-hosseinian/mo-hosseinian.github.io"
+repository               : "s-hosseinian/mo-hosseinian.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Hosseinian"
+  name             : "S. Mohammad Hosseinian"
   avatar           : "profile.png"
   bio              : "Assistant Professor"
   location         : "Cincinnati, OH"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mo-hosseinian"
+  github           : "s-hosseinian"
   google_plus      :
   keybase          :
   instagram        :
