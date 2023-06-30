@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mohammad Hosseinian"
 title_separator          : "-"
-name                     : &name "S. Mohammad Hosseinian"
+name                     : &name "Mohammad Hosseinian"
 description              : &description "Assistant Professor"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
