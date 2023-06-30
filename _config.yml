@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S. Mohammad Hosseinian"
+title                    : "Mohammad Hosseinian"
 title_separator          : "-"
-name                     : &name "S. Mohammad Hosseinian"
+name                     : &name "Mohammad Hosseinian"
 description              : &description "Assistant Professor of Industrial and Systems Engineering at University of Cincinnati"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "S. Mohammad Hosseinian"
-  avatar           : "profile.png"
+  name             : "Mohammad Hosseinian"
+  avatar           : "Hosseinian_MME.png"
   bio              : "Assistant Professor"
   location         : "Cincinnati, OH"
   employer         : "University of Cincinnati"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=M-tqLmgAAAAJ&hl=en&oi=ao"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "s.hosseinian@uc.edu"
+  researchgate     : "https://www.researchgate.net/profile/Seyedmohammadhossein-Hosseinian"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://mo-hosseinian.github.io"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/s-mohammad-hosseinian"
+  orcid            : "https://orcid.org/0000-0001-7016-5925"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
