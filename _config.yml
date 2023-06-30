@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S. Mohammad Hosseinian"
+title                    : "Mohammad Hosseinian"
 title_separator          : "-"
-name                     : &name "S. Mohammad Hosseinian"
+name                     : &name "Mohammad Hosseinian"
 description              : &description "Assistant Professor of Industrial and Systems Engineering at University of Cincinnati"
 url                      : https://mo-hosseinian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "S. Mohammad Hosseinian"
+  name             : "Mohammad Hosseinian"
   avatar           : "profile.png"
   bio              : "Assistant Professor"
   location         : "Cincinnati, OH"
